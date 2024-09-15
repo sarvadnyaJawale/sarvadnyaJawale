@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,docker,kubernetes,ansible,grafana,prometheus,terraform,jenkins, circleCI, travis CI,azure devops" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,ansible,grafana,prometheus,terraform,jenkins, circleCI, travis CI,azure devops" />
 <!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
