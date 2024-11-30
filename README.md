@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Automations in Deployments through CI/CD Pipelines**
+ 🔭 I’m currently working on **Automated deployements using Kubernetes🛞**
  
  🌱 I’m currently learning **Kubernetes and Open Source tools for Automating Infra-Management, Configuration, Secret Management and Deployments on Cloud☁️**
 
@@ -34,10 +34,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚙️Languages-Frameworks-Tools⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,ansible,terraform,jenkins,grafana,prometheus,bash,git,trivy,sonarqube,cert-manager,letsencrypt,servicenow,cyberark,mongodb,express,react,node.js,chart.js,redux,graphql,argocd,fluxcd" />
+    <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,ansible,terraform,jenkins,grafana,prometheus,bash,git,trivy,sonarqube,cert-manager,letsencrypt,mongodb,express,react,node.js,chart.js,argocd,fluxcd" />
 <!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🤝My Contributions🥂</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sarvadnyaJawale/sarvadnyaJawale/output/github-contribution-grid-snake.svg" />
   
