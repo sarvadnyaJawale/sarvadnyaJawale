@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Python, Java, Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana, Prometheus, Bash, Git, Trivy, SonarQube, cert-manager, Let's Encrypt, ServiceNow, CyberArk, MongoDB, Express, React, Node.js, Chart.js, Redux, GraphQL, ArgoCD, FluxCD" />
+    <img src="https://skillicons.dev/icons?i=python, Java, Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana, Prometheus, Bash, Git, Trivy, SonarQube, cert-manager, Let's Encrypt, ServiceNow, CyberArk, MongoDB, Express, React, Node.js, Chart.js, Redux, GraphQL, ArgoCD, FluxCD" />
 <!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
