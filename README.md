@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarvdnyaJawale.sarvadnyaJawale" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarvadnya+Jawale!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarvadnya+Jawle!;" />
 </h1>
 
 <h3 align="center">A passionate DevOps and Cloud Engineer</h3>
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Automations in Deployments through CI/CD Pipelines**
  
- 🌱 I’m currently learning **Azure DevOps , AWS , GCP**
+ 🌱 I’m currently learning **Kubernetes and Open Source tools for Automating Infra-Management, Configuration, Secret Management and Deployments on Cloud☁️**
 
 💬 Ask me about **Docker, Kubernetes, Automations in Deployments... or anything [here](https://github.com/sarvadnyaJawale/sarvadnyaJawale/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,ansible,grafana,prometheus,terraform,jenkins, circleCI, travis CI,azure devops" />
+    <img src="https://skillicons.dev/icons?i=Python, Java, Docker, Kubernetes, Ansible, Terraform, Jenkins, Grafana, Prometheus, Bash, Git, Trivy, SonarQube, cert-manager, Let's Encrypt, ServiceNow, CyberArk, MongoDB, Express, React, Node.js, Chart.js, Redux, GraphQL, ArgoCD, FluxCD" />
 <!--     <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 
